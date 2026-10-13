@@ -1,0 +1,19 @@
+
+# Carpetas generadas por Vivado
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Logs y archivos temporales
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+
+# Archivos de runtime generados
+dfx_runtime.txt
