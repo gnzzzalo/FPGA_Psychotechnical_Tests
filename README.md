@@ -128,7 +128,7 @@ This architecture separates the control logic from the individual test implement
 This project was collaboratively developed by **three team members** as an educational FPGA prototype.
 
 **Contributors:**
-- Raúl Gonzalo Toapanta Paucar ()
+- Raúl Gonzalo Toapanta Paucar
 - Alejandro Lalana Sáez
 - Daniel De Nóbrega
 
