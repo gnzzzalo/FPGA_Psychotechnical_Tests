@@ -129,7 +129,7 @@ This project was collaboratively developed by **three team members** as an educa
 
 **Contributors:**
 - Raúl Gonzalo Toapanta Paucar
-- Alejandro Lalana Sáez
+- Alejandro Lalana Sáez (https://github.com/Lalan77)
 - Daniel De Nóbrega
 
 All three team members are acknowledged for their participation in the project.
